@@ -13,7 +13,7 @@ function App() {
     if (mode === "light") {
       setmode("dark");
       document.body.style.backgroundColor = "#042743";
-      showAlert("Dark Mode has been enabled", "Sucess");
+      showAlert("Dark Mode has been enabled", "Sucess");vhjvhjvhjhvvhg
       document.title = "text mode dark";
     } else {
       setmode("light");
